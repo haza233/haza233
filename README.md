@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- Animated Header - using readme-typing-svg as main header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Rifqi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=22&descAlignY=62&descColor=a78bfa"/>
+# 👋 Hi, I'm Muhammad Rifqi
+### `Full-Stack & Mobile Developer`
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=🚀+Building+the+future%2C+one+commit+at+a+time;⚡+React+%7C+Node.js+%7C+Laravel+%7C+Android;🌱+Open+source+enthusiast+%26+lifelong+learner)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=🚀+Building+the+future%2C+one+commit+at+a+time;⚡+React+%7C+Node.js+%7C+Laravel+%7C+Android;🌱+Open+source+enthusiast+%26+lifelong+learner)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Dev-a78bfa?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Lives-Indonesia-a78bfa?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Languages-Indonesian%20%26%20English-a78bfa?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -90,15 +92,22 @@ const rifqi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haza233&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haza233&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="160"/>
-</div>
+
+<!-- Stats via githubstats.me - alternative reliable service -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haza233&theme=tokyonight" width="100%"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=haza233&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haza233&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haza233&theme=tokyonight" height="180"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haza233&theme=tokyonight" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haza233&theme=tokyonight&utcOffset=7" height="180"/>
+
 </div>
 
 ---
@@ -132,8 +141,6 @@ const rifqi = {
 
 <br/>
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
